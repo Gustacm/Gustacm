@@ -9,12 +9,11 @@ No solo soy un Full Stack Developer, sino también un eterno estudiante y un ama
 
 ¡Estoy listo para el próximo desafío ! 🚀
 
-<a href="mailto:gustavocastilloma@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
 
-
+**Contacto:**
+<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocastilloma@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-castillo-94a000252)
 
 
