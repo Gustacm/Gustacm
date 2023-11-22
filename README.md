@@ -4,8 +4,6 @@ Soy Gustavo Castillo, un apasionado recién graduado como Full Stack Developer, 
 
 Antes de sumergirme en este mundo , mi vida estaba llena de desafíos , trabajando en el emocionante pero diferente mundo de la comida. Hace unos meses, decidí darle un giro a mi vida y abrazar mi amor por la programación.
 
-Lo que me hace destacar no es solo mi habilidad para resolver problemas de código, sino mi capacidad para aprender y mi deseo constante de crecimiento. Como migrante, he enfrentado y superado desafíos, y esta experiencia ha cultivado en mí una mentalidad de resiliencia y adaptabilidad.
-
 No solo soy un Full Stack Developer, sino también un eterno estudiante y un amante de escuchar historias. Creo que el verdadero crecimiento viene cuando estamos dispuestos a escuchar y aprender de los demás, y estoy emocionado de llevar esta mentalidad colaborativa a mi próximo equipo.
 
 
