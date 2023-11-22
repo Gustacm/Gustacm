@@ -1,15 +1,24 @@
-### ¡Hola! Soy Gustavo Castillo 👋
+### ¡Hola a todos!
 
-Soy un desarrollador full stack apasionado por crear la tecnologia .  ¡Gracias por visitar mi perfil! 😊
-<br>
-Puedes contactarme :
-<br>
+Soy Gustavo Castillo, un apasionado recién graduado como Full Stack Developer, ¡listo para conquistar el mundo de la tecnología! 😎
+
+Antes de sumergirme en este mundo , mi vida estaba llena de desafíos , trabajando en el emocionante pero diferente mundo de la comida. Hace unos meses, decidí darle un giro a mi vida y abrazar mi amor por la programación.
+
+Lo que me hace destacar no es solo mi habilidad para resolver problemas de código, sino mi capacidad para aprender y mi deseo constante de crecimiento. Como migrante, he enfrentado y superado desafíos, y esta experiencia ha cultivado en mí una mentalidad de resiliencia y adaptabilidad.
+
+No solo soy un Full Stack Developer, sino también un eterno estudiante y un amante de escuchar historias. Creo que el verdadero crecimiento viene cuando estamos dispuestos a escuchar y aprender de los demás, y estoy emocionado de llevar esta mentalidad colaborativa a mi próximo equipo.
+
+
+¡Estoy listo para el próximo desafío ! 🚀
+
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavocastilloma@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-castillo-94a000252)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
-<br>
+
 
 <p align="center">
 
